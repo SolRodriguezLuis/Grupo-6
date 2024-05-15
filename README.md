@@ -1,10 +1,9 @@
 # Grupo-6
 Clase Practica I (Clase 8) Python Inicial 
 
-
 # sol_rodriguezluis@hotmail.com - Sol Rodriguez Luis 	
-# - Florencia Zeoli	
-# - Mailen Filippone	
+# florenciazeoli@hotmail.com - Florencia Zeoli	
+# mailenfilippone@gmail.com - Mailen Filippone	
 # - Karen Andrea Basualdo	
 # - Marielis Bozo	
 
