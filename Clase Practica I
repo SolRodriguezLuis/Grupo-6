@@ -1,11 +1,3 @@
-# Grupo-6
-Clase Practica I (Clase 8) Python Inicial 
-
-# sol_rodriguezluis@hotmail.com - Sol Rodriguez Luis 	
-# florenciazeoli@hotmail.com - Florencia Zeoli	
-# mailenfilippone@gmail.com - Mailen Filippone	
-# - Karen Andrea Basualdo	
-# - Marielis Bozo	
 
 import random
 numero_secreto =random.randint(1,50)
